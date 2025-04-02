@@ -12,8 +12,8 @@ body {
     margin: 5px auto;
     padding: 5px;
     background-color: #3c404d; 
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25); 
-    border-radius: 15px; 
+    box-shadow: 0 5px 5px rgba(0, 0, 0, 0.25); 
+    border-radius: 5px; 
 }
 
 h1 {
@@ -21,8 +21,8 @@ h1 {
 }
 
 .instructions {
-    font-size: 20px;
-    margin-bottom: 30px;
+    font-size: 5px;
+    margin-bottom: 5px;
     color: #adbac7;
 }
 
@@ -30,9 +30,9 @@ h1 {
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: repeat(2, 1fr);
-    gap: 20px;
+    gap: 5px;
     justify-content: center;
-    padding: 20px;
+    padding: 5px;
 }
 
 .card {
